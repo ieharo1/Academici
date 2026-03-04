@@ -1,4 +1,4 @@
-﻿# AD SQL Snapshot - Documentacion Operativa
+﻿# AD SQL Snapshot
 
 Script principal: `ad-sql-snapshot.ps1`
 
